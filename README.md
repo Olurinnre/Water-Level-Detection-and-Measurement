@@ -15,7 +15,7 @@ This project is a simple and effective system to monitor water levels in tanks u
 
 ## 🧠 Principle
 
-The ultrasonic sensor measures the distance between itself and the surface of the water. The Arduino calculates the percentage of water filled in the tank based on the total depth of the tank and the measured distance. This percentage is then displayed on the LCD, and alerts can be triggered when the water level is too low or too high.
+The ultrasonic sensor measures the distance between itself and the surface of the water. The PIC16F877A calculates the percentage of water filled in the tank based on the total depth of the tank and the measured distance. This percentage is then displayed on the LCD, and alerts can be triggered when the water level is too low or too high.
 
 
 Connections:
