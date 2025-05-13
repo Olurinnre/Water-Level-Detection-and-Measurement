@@ -55,4 +55,4 @@ Connections:
 
 ## 📜 Conclusion
 
-This project is a practical and efficient solution for monitoring water levels using Arduino and ultrasonic sensors. It helps save water and protects equipment like water pumps from damage due to dry runs or overflow.
+This project is a practical and efficient solution for monitoring water levels using PIC16F877A and ultrasonic sensors. It helps save water and protects equipment like water pumps from damage due to dry runs or overflow.
